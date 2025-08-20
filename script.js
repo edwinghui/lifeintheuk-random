@@ -49,15 +49,17 @@
     scoreEl.textContent = `Score: ${state.correct} / ${state.answered}`;
   }
 
-  function scrollToNext(fromCard) {
-    const cards = Array.from(quizEl.querySelectorAll('.card'));
-    const idx = cards.indexOf(fromCard);
-    const next = cards[idx + 1];
-    if (next) {
-      // Smooth scroll into view without jumping header height
-      next.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
+function scrollToNext(fromCard) {
+  const cards = Array.from(quizEl.querySelectorAll('.card'));
+  const idx = cards.indexOf(fromCard);
+  const next = cards[idx + 1];
+  if (next) {
+    const header = document.querySelector('header');
+    const offset = header ? header.offsetHeight + 8 : 0; // +8px gap
+    const top = next.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top, behavior: 'smooth' });
   }
+}
 
   function renderQuiz() {
     quizEl.innerHTML = '';
@@ -125,7 +127,7 @@
     updateScore();
 
     // Auto scroll to next after a short pause
-    setTimeout(() => scrollToNext(card), 220);
+    setTimeout(() => scrollToNext(card), 420);
   }, { passive: true });
 
   newSetBtn.addEventListener('click', newSet);
