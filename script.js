@@ -55,7 +55,7 @@ function scrollToNext(fromCard) {
   const next = cards[idx + 1];
   if (next) {
     const header = document.querySelector('header');
-    const offset = header ? header.offsetHeight + 150 : 0; // + gap
+    const offset = header ? header.offsetHeight + 100 : 0; // + gap
     const top = next.getBoundingClientRect().top + window.scrollY - offset;
     window.scrollTo({ top, behavior: 'smooth' });
   }
