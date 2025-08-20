@@ -2119,7 +2119,7 @@ window.ALL_QUESTIONS = [
     "choices": [
       "Obey and respect the law",
       "Look after themselves and their family",
-      "Both A and B",
+      "Obey and respect the law + Look after themselves and their family",
       "Pay church tax"
     ],
     "answer": 2
