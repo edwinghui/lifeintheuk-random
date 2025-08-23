@@ -4437,4 +4437,664 @@ window.ALL_QUESTIONS = [
     ],
     "answer": 2
   }
+    {
+    "id": "q0407",
+    "q": "Which UK Prime Minister signed the Good Friday Agreement?",
+    "choices": [
+      "Margaret Thatcher",
+      "John Major",
+      "Tony Blair",
+      "David Cameron"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0408",
+    "q": "The Domesday Book was commissioned by which monarch?",
+    "choices": [
+      "William the Conqueror",
+      "Edward I",
+      "Henry VIII",
+      "James I"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0409",
+    "q": "Which UK flower is the national emblem of Scotland?",
+    "choices": [
+      "Rose",
+      "Daffodil",
+      "Thistle",
+      "Shamrock"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0410",
+    "q": "What is celebrated on 25 December each year in the UK?",
+    "choices": [
+      "Easter",
+      "Halloween",
+      "Christmas Day",
+      "Boxing Day"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0411",
+    "q": "Which two Houses make up the UK Parliament?",
+    "choices": [
+      "House of Commons and House of Lords",
+      "House of Lords and Senate",
+      "House of Commons only",
+      "House of Representatives"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0412",
+    "q": "Who was executed in 1649 after losing the English Civil War?",
+    "choices": [
+      "James I",
+      "Charles I",
+      "Charles II",
+      "Edward VI"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0413",
+    "q": "The Battle of Hastings in 1066 led to the reign of which monarch?",
+    "choices": [
+      "Harold Godwinson",
+      "Edward III",
+      "William the Conqueror",
+      "Richard I"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0414",
+    "q": "Which celebration is held in Scotland on 31 December?",
+    "choices": [
+      "Hogmanay",
+      "Burns Night",
+      "St Andrew’s Day",
+      "Guy Fawkes Night"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0415",
+    "q": "Who was the famous wartime Prime Minister of the UK during World War II?",
+    "choices": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Margaret Thatcher"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0416",
+    "q": "The Union Flag combines the crosses of St George, St Andrew and which other saint?",
+    "choices": [
+      "St Patrick",
+      "St David",
+      "St Columba",
+      "St Piran"
+    ],
+    "answer": 0
+  },
+    {
+    "id": "q0407",
+    "q": "Which UK Prime Minister signed the Good Friday Agreement?",
+    "choices": [
+      "Margaret Thatcher",
+      "John Major",
+      "Tony Blair",
+      "David Cameron"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0408",
+    "q": "The Domesday Book was commissioned by which monarch?",
+    "choices": [
+      "William the Conqueror",
+      "Edward I",
+      "Henry VIII",
+      "James I"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0409",
+    "q": "Which UK flower is the national emblem of Scotland?",
+    "choices": [
+      "Rose",
+      "Daffodil",
+      "Thistle",
+      "Shamrock"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0410",
+    "q": "What is celebrated on 25 December each year in the UK?",
+    "choices": [
+      "Easter",
+      "Halloween",
+      "Christmas Day",
+      "Boxing Day"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0411",
+    "q": "Which two Houses make up the UK Parliament?",
+    "choices": [
+      "House of Commons and House of Lords",
+      "House of Lords and Senate",
+      "House of Commons only",
+      "House of Representatives"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0412",
+    "q": "Who was executed in 1649 after losing the English Civil War?",
+    "choices": [
+      "James I",
+      "Charles I",
+      "Charles II",
+      "Edward VI"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0413",
+    "q": "The Battle of Hastings in 1066 led to the reign of which monarch?",
+    "choices": [
+      "Harold Godwinson",
+      "Edward III",
+      "William the Conqueror",
+      "Richard I"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0414",
+    "q": "Which celebration is held in Scotland on 31 December?",
+    "choices": [
+      "Hogmanay",
+      "Burns Night",
+      "St Andrew’s Day",
+      "Guy Fawkes Night"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0415",
+    "q": "Who was the famous wartime Prime Minister of the UK during World War II?",
+    "choices": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Margaret Thatcher"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0416",
+    "q": "The Union Flag combines the crosses of St George, St Andrew and which other saint?",
+    "choices": [
+      "St Patrick",
+      "St David",
+      "St Columba",
+      "St Piran"
+    ],
+    "answer": 0
+  },
+    {
+    "id": "q0417",
+    "q": "Which year did the Great Fire of London occur?",
+    "choices": [
+      "1666",
+      "1649",
+      "1707",
+      "1720"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0418",
+    "q": "What is the national flower of Scotland?",
+    "choices": [
+      "Rose",
+      "Shamrock",
+      "Thistle",
+      "Daffodil"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0419",
+    "q": "Who was the Prime Minister during most of World War II?",
+    "choices": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Stanley Baldwin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0420",
+    "q": "What is the national flower of England?",
+    "choices": [
+      "Rose",
+      "Shamrock",
+      "Thistle",
+      "Daffodil"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0421",
+    "q": "The Battle of Hastings took place in which year?",
+    "choices": [
+      "1215",
+      "1066",
+      "1348",
+      "1415"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0422",
+    "q": "Who led the Labour government that created the NHS in 1948?",
+    "choices": [
+      "Clement Attlee",
+      "Harold Wilson",
+      "Winston Churchill",
+      "Tony Blair"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0423",
+    "q": "What is celebrated on 5 November in the UK?",
+    "choices": [
+      "Armistice Day",
+      "Guy Fawkes Night",
+      "May Day",
+      "Burns Night"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0424",
+    "q": "Which monarch was on the throne when the Spanish Armada was defeated?",
+    "choices": [
+      "Henry VIII",
+      "Elizabeth I",
+      "James I",
+      "Charles I"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0425",
+    "q": "Which flower is the emblem of Ireland?",
+    "choices": [
+      "Rose",
+      "Shamrock",
+      "Daffodil",
+      "Thistle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0426",
+    "q": "The Houses of Parliament are also known as …",
+    "choices": [
+      "Westminster Abbey",
+      "The Palace of Westminster",
+      "The Guildhall",
+      "Buckingham Palace"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0427",
+    "q": "Which famous document was signed by King John in 1215?",
+    "choices": [
+      "The Bill of Rights",
+      "The Magna Carta",
+      "The Act of Settlement",
+      "The Domesday Book"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0428",
+    "q": "The UK Parliament is made up of …",
+    "choices": [
+      "House of Commons and House of Lords",
+      "House of Commons and Senate",
+      "House of Lords and Council",
+      "House of Commons only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0429",
+    "q": "Who was the first female Prime Minister of the UK?",
+    "choices": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Barbara Castle",
+      "Harriet Harman"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0430",
+    "q": "What is the official residence of the UK Prime Minister?",
+    "choices": [
+      "Buckingham Palace",
+      "10 Downing Street",
+      "Windsor Castle",
+      "Hampton Court"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0431",
+    "q": "Which city is known as the capital of Scotland?",
+    "choices": [
+      "Glasgow",
+      "Aberdeen",
+      "Edinburgh",
+      "Dundee"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0432",
+    "q": "Who discovered penicillin in 1928?",
+    "choices": [
+      "Alexander Fleming",
+      "Isaac Newton",
+      "Charles Darwin",
+      "Michael Faraday"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0433",
+    "q": "What is the national flower of Wales?",
+    "choices": [
+      "Rose",
+      "Shamrock",
+      "Thistle",
+      "Daffodil"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q0434",
+    "q": "What is the Union Jack?",
+    "choices": [
+      "The flag of the European Union",
+      "The national flag of the UK",
+      "The flag of England",
+      "The flag of Scotland"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0435",
+    "q": "What is the capital city of Northern Ireland?",
+    "choices": [
+      "Derry/Londonderry",
+      "Belfast",
+      "Lisburn",
+      "Newry"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0436",
+    "q": "Who was the monarch during the defeat of Napoleon at Waterloo?",
+    "choices": [
+      "George III",
+      "George IV",
+      "William IV",
+      "Victoria"
+    ],
+    "answer": 0
+  }
+    {
+    "id": "q0437",
+    "q": "Who wrote the plays Hamlet, Macbeth and Romeo and Juliet?",
+    "choices": [
+      "Charles Dickens",
+      "Geoffrey Chaucer",
+      "William Shakespeare",
+      "Jane Austen"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0438",
+    "q": "What is the capital of Wales?",
+    "choices": [
+      "Cardiff",
+      "Swansea",
+      "Newport",
+      "Bangor"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0439",
+    "q": "In which year did the First World War begin?",
+    "choices": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0440",
+    "q": "Which famous British scientist proposed the theory of evolution?",
+    "choices": [
+      "Isaac Newton",
+      "Alexander Fleming",
+      "Charles Darwin",
+      "Michael Faraday"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0441",
+    "q": "What does Remembrance Day commemorate?",
+    "choices": [
+      "The end of the English Civil War",
+      "The end of the Napoleonic Wars",
+      "The end of the First World War",
+      "The signing of Magna Carta"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0442",
+    "q": "Who was the first King of a united England in 927?",
+    "choices": [
+      "Edward the Confessor",
+      "Alfred the Great",
+      "Athelstan",
+      "William the Conqueror"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0443",
+    "q": "Which UK Prime Minister is associated with the phrase ‘Iron Lady’?",
+    "choices": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Barbara Castle",
+      "Queen Victoria"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0444",
+    "q": "What is the name of the London residence of the monarch?",
+    "choices": [
+      "Buckingham Palace",
+      "Windsor Castle",
+      "Hampton Court",
+      "The Tower of London"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0445",
+    "q": "What is the currency of the United Kingdom?",
+    "choices": [
+      "Euro",
+      "Pound Sterling",
+      "Dollar",
+      "Shilling"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0446",
+    "q": "Which English king had six wives?",
+    "choices": [
+      "Henry V",
+      "Henry VII",
+      "Henry VIII",
+      "Edward VI"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0447",
+    "q": "Who built the Tower of London?",
+    "choices": [
+      "Henry VIII",
+      "William the Conqueror",
+      "Edward I",
+      "Richard III"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0448",
+    "q": "Which saint is the patron saint of Wales?",
+    "choices": [
+      "St George",
+      "St Andrew",
+      "St David",
+      "St Patrick"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q0449",
+    "q": "What happens on 1 May in many parts of the UK?",
+    "choices": [
+      "Christmas celebrations",
+      "May Day festivals",
+      "Guy Fawkes Night",
+      "Remembrance Sunday"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0450",
+    "q": "Who was the British Prime Minister during most of the Second World War?",
+    "choices": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Harold Wilson",
+      "Clement Attlee"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0451",
+    "q": "Which is the largest country in the United Kingdom?",
+    "choices": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q0452",
+    "q": "What is the traditional food eaten on Shrove Tuesday?",
+    "choices": [
+      "Hot cross buns",
+      "Pancakes",
+      "Roast turkey",
+      "Shortbread"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0453",
+    "q": "Which monarch reigned the longest before Queen Elizabeth II?",
+    "choices": [
+      "George III",
+      "Victoria",
+      "Edward VII",
+      "Henry VIII"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0454",
+    "q": "Which UK region is famous for its Giant’s Causeway?",
+    "choices": [
+      "Scotland",
+      "Wales",
+      "England",
+      "Northern Ireland"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q0455",
+    "q": "What type of government does the UK have?",
+    "choices": [
+      "Absolute monarchy",
+      "Constitutional monarchy",
+      "Republic",
+      "Dictatorship"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q0456",
+    "q": "Which English author wrote Pride and Prejudice?",
+    "choices": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Mary Shelley",
+      "Emily Brontë"
+    ],
+    "answer": 1
+  }    
 ];
