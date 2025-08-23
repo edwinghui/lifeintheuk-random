@@ -4436,7 +4436,7 @@ window.ALL_QUESTIONS = [
       "Currency"
     ],
     "answer": 2
-  }
+  },
     {
     "id": "q0407",
     "q": "Which UK Prime Minister signed the Good Friday Agreement?",
@@ -4876,7 +4876,7 @@ window.ALL_QUESTIONS = [
       "Victoria"
     ],
     "answer": 0
-  }
+  },
     {
     "id": "q0437",
     "q": "Who wrote the plays Hamlet, Macbeth and Romeo and Juliet?",
@@ -5096,5 +5096,5 @@ window.ALL_QUESTIONS = [
       "Emily Brontë"
     ],
     "answer": 1
-  }    
+  },    
 ];
