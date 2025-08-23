@@ -2095,12 +2095,12 @@ window.ALL_QUESTIONS = [
     "id": "q0193",
     "q": "What is the highest value note in general circulation in the UK?",
     "choices": [
-      "£50",
-      "£100",
-      "£50",
-      "£20"
+      "£5",
+      "£10",
+      "£20",
+      "£50"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "id": "q0194",
@@ -2602,7 +2602,7 @@ window.ALL_QUESTIONS = [
       "True",
       "False"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "id": "q0240",
@@ -2895,7 +2895,7 @@ window.ALL_QUESTIONS = [
       "Duke of Wellington",
       "Captain Cook",
       "Admiral Horatio Nelson",
-      "Lord Nelson"
+      "Sir Francis Drake"
     ],
     "answer": 2
   },
@@ -4437,7 +4437,7 @@ window.ALL_QUESTIONS = [
     ],
     "answer": 2
   },
-    {
+  {
     "id": "q0407",
     "q": "Which UK Prime Minister signed the Good Friday Agreement?",
     "choices": [
@@ -4547,117 +4547,7 @@ window.ALL_QUESTIONS = [
     ],
     "answer": 0
   },
-    {
-    "id": "q0407",
-    "q": "Which UK Prime Minister signed the Good Friday Agreement?",
-    "choices": [
-      "Margaret Thatcher",
-      "John Major",
-      "Tony Blair",
-      "David Cameron"
-    ],
-    "answer": 2
-  },
   {
-    "id": "q0408",
-    "q": "The Domesday Book was commissioned by which monarch?",
-    "choices": [
-      "William the Conqueror",
-      "Edward I",
-      "Henry VIII",
-      "James I"
-    ],
-    "answer": 0
-  },
-  {
-    "id": "q0409",
-    "q": "Which UK flower is the national emblem of Scotland?",
-    "choices": [
-      "Rose",
-      "Daffodil",
-      "Thistle",
-      "Shamrock"
-    ],
-    "answer": 2
-  },
-  {
-    "id": "q0410",
-    "q": "What is celebrated on 25 December each year in the UK?",
-    "choices": [
-      "Easter",
-      "Halloween",
-      "Christmas Day",
-      "Boxing Day"
-    ],
-    "answer": 2
-  },
-  {
-    "id": "q0411",
-    "q": "Which two Houses make up the UK Parliament?",
-    "choices": [
-      "House of Commons and House of Lords",
-      "House of Lords and Senate",
-      "House of Commons only",
-      "House of Representatives"
-    ],
-    "answer": 0
-  },
-  {
-    "id": "q0412",
-    "q": "Who was executed in 1649 after losing the English Civil War?",
-    "choices": [
-      "James I",
-      "Charles I",
-      "Charles II",
-      "Edward VI"
-    ],
-    "answer": 1
-  },
-  {
-    "id": "q0413",
-    "q": "The Battle of Hastings in 1066 led to the reign of which monarch?",
-    "choices": [
-      "Harold Godwinson",
-      "Edward III",
-      "William the Conqueror",
-      "Richard I"
-    ],
-    "answer": 2
-  },
-  {
-    "id": "q0414",
-    "q": "Which celebration is held in Scotland on 31 December?",
-    "choices": [
-      "Hogmanay",
-      "Burns Night",
-      "St Andrew’s Day",
-      "Guy Fawkes Night"
-    ],
-    "answer": 0
-  },
-  {
-    "id": "q0415",
-    "q": "Who was the famous wartime Prime Minister of the UK during World War II?",
-    "choices": [
-      "Neville Chamberlain",
-      "Winston Churchill",
-      "Clement Attlee",
-      "Margaret Thatcher"
-    ],
-    "answer": 1
-  },
-  {
-    "id": "q0416",
-    "q": "The Union Flag combines the crosses of St George, St Andrew and which other saint?",
-    "choices": [
-      "St Patrick",
-      "St David",
-      "St Columba",
-      "St Piran"
-    ],
-    "answer": 0
-  },
-    {
     "id": "q0417",
     "q": "Which year did the Great Fire of London occur?",
     "choices": [
@@ -4877,7 +4767,7 @@ window.ALL_QUESTIONS = [
     ],
     "answer": 0
   },
-    {
+  {
     "id": "q0437",
     "q": "Who wrote the plays Hamlet, Macbeth and Romeo and Juliet?",
     "choices": [
@@ -5096,5 +4986,5 @@ window.ALL_QUESTIONS = [
       "Emily Brontë"
     ],
     "answer": 1
-  },    
+  }
 ];
