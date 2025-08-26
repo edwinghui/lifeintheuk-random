@@ -131,7 +131,7 @@ window.ALL_QUESTIONS = [
   },
   {
     "id": "q0013",
-    "q": "Which rights and freedoms does the UK offer its residents or citizens (choose five)?",
+    "q": "Which right or freedom is NOT the UK offers?",
     "choices": [
       "Freedom of belief and religion",
       "Freedom of speech",
@@ -518,17 +518,6 @@ window.ALL_QUESTIONS = [
     "answer": 2
   },
   {
-    "id": "q0049",
-    "q": "Why did King Henry VIII divorce Catherine of Aragon?",
-    "choices": [
-      "She could not produce a male heir",
-      "She was Catholic",
-      "She refused to move to England",
-      "She was French"
-    ],
-    "answer": 0
-  },
-  {
     "id": "q0050",
     "q": "With which country did England fight the Hundred Years’ War?",
     "choices": [
@@ -679,17 +668,6 @@ window.ALL_QUESTIONS = [
       "Sir Roger Bannister",
       "Usain Bolt",
       "Sebastian Coe"
-    ],
-    "answer": 1
-  },
-  {
-    "id": "q0064",
-    "q": "Eid al‑Fitr marks the end of which Islamic observance?",
-    "choices": [
-      "Hajj",
-      "Ramadan",
-      "Muharram",
-      "Ashura"
     ],
     "answer": 1
   },
